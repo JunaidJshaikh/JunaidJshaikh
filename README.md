@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JunaidJshaikh
+- 👋 Hi, I’m Junaid Shaikh
 - 👀 I’m interested in Data Engineering and Data Science.
 - 🌱 I’m currently learning MSc Data Science
 - 💞️ I’m looking to collaborate on data engineering projects
